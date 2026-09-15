@@ -334,9 +334,6 @@ sglt2-commercial-analytics/
 
 README.md
 
-dashboard/
-- SGLT2_Commercial_Analytics.pbix
-
 images/
 - executive_overview.png
 - geographic_opportunity.png
@@ -353,6 +350,7 @@ Raw NHS prescribing files are not included in this repository due to file size.
 
 The data folder documents the public sources and transformation approach used in the project.
 
+Power BI source file available upon request.
 ---
 
 ## Author
