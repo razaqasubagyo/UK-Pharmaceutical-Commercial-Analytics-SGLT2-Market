@@ -350,7 +350,8 @@ Raw NHS prescribing files are not included in this repository due to file size.
 
 The data folder documents the public sources and transformation approach used in the project.
 
-Power BI source file available upon request.
+Power BI source file available upon request
+
 ---
 
 ## Author
